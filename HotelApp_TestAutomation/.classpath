@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path="Lib/selenium-server-standalone-3.10.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/User/eclipse-workspace/HotelApp_TestAutomation/Lib/selenium-html-runner-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/eclipse-workspace/HotelApp_TestAutomation/Lib/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/selenium 3 installs/selenium-java-3.9.1/libs/byte-buddy-1.7.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/selenium 3 installs/selenium-java-3.9.1/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/selenium 3 installs/selenium-java-3.9.1/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/selenium 3 installs/selenium-java-3.9.1/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/selenium 3 installs/selenium-java-3.9.1/libs/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/selenium 3 installs/selenium-java-3.9.1/libs/guava-23.6-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/selenium 3 installs/selenium-java-3.9.1/libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/selenium 3 installs/selenium-java-3.9.1/libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/selenium 3 installs/selenium-java-3.9.1/libs/okhttp-3.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/selenium 3 installs/selenium-java-3.9.1/libs/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/cucumber-reporting-3.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/gherkin-2.12.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

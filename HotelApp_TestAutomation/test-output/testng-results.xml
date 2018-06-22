@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Login was successful]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19872" started-at="2018-05-02T08:18:18Z" finished-at="2018-05-02T08:18:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19872" started-at="2018-05-02T08:18:18Z" finished-at="2018-05-02T08:18:38Z">
+      <class name="tests.MyTestNGTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.MyTestNGTest@86be70a]" name="setUp" is-config="true" duration-ms="12448" started-at="2018-05-02T09:18:18Z" finished-at="2018-05-02T09:18:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testMyFirstWebDriver()[pri:0, instance:tests.MyTestNGTest@86be70a]" name="testMyFirstWebDriver" duration-ms="7033" started-at="2018-05-02T09:18:30Z" finished-at="2018-05-02T09:18:37Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Login was successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testMyFirstWebDriver -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.MyTestNGTest@86be70a]" name="tearDown" is-config="true" duration-ms="342" started-at="2018-05-02T09:18:37Z" finished-at="2018-05-02T09:18:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.MyTestNGTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
